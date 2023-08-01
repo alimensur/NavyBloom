@@ -1,18 +1,18 @@
 export const socials = [
   {
     title: 'Instagram',
-    icon: 'mdi:instagram',
+    icon: 'grommet-icons:instagram',
     url: 'https://www.instagram.com/navybloomcom/',
   },
   {
     title: 'Twitter',
-    icon: 'mdi:twitter',
+    icon: 'grommet-icons:twitter',
     url: 'https://twitter.com/navybloomcom',
   },
   {
-    title: 'YouTube',
-    icon: 'mdi:youtube',
-    url: 'https://youtube.com/c/navybloomcom',
+    title: 'Linkedin',
+    icon: 'grommet-icons:linkedin',
+    url: 'https://www.linkedin.com/company/navybloom',
   },
 
 ]
